@@ -1,4 +1,4 @@
-#Project 1:
+# Project 1:
 
 This program allows the user to enter:
 "playsong" "input file" "output file"

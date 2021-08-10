@@ -21,6 +21,8 @@ START
 .
 END
 
+test.txt is an example of what the input files should look like. 
+
 It reads all of the candies on the input file, and then does three things to 
 them:
 1. Prints out all of the candies sorted by the total price with the highest total price being at the top. 
