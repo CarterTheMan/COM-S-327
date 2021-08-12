@@ -4,7 +4,7 @@ For this program the user enters: candy "filename"
 with "filename" being the name of the input file. 
 
 The input file should be formatted as follows:
-
+```
 START
 Candy Name
 Candy Type
@@ -20,7 +20,7 @@ START
 .
 .
 END
-
+```
 test.txt is an example of what the input files should look like. 
 
 It reads all of the candies on the input file, and then does three things to 
